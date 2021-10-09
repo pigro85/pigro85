@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @pigro85
 - 👀 I’m interested in gaming and blockchain
 - 🌱 I’m currently learning decentralized stuff and docker :)
-- 📫 Yo can reach me via Twitter or Telegram
+- 📫 You can reach me via Twitter or Telegram
